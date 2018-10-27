@@ -1,0 +1,20 @@
+{
+  "name": "userinfo",
+  "version": "1.0.0",
+  "description": "Firebase sync with Mysql Database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mdsami",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.2.0",
+    "firebase-admin": "^5.1.0",
+    "mysql": "^2.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
