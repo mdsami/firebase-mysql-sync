@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/mdsami/firebase-mysql-sync.svg?style=social&label=Star)](https://github.com/mdsami/firebase-mysql-sync) [![GitHub forks](https://img.shields.io/github/stars/mdsami/firebase-mysql-sync.svg?style=social&label=Fork)](https://github.com/mdsami/firebase-mysql-sync/fork) [![GitHub watchers](https://img.shields.io/github/watchers/mdsami/firebase-mysql-sync.svg?style=social&label=Watch)](https://github.com/mdsami/firebase-mysql-sync) [![GitHub followers](https://img.shields.io/github/followers/mdsami.svg?style=social&label=Follow)](https://github.com/mdsami/firebase-mysql-sync)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/mdsami5.svg?style=social)](https://twitter.com/mdsami5)
 
-This repository containing Node JS Script to sync Firebase DB with Local Mysql DB.
+This repository containing Node JS Script to sync  Local Mysql DB  with Firebase DB.
 
 
 ## Setup
