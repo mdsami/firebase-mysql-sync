@@ -18,7 +18,11 @@ This repository containing Node JS Script to sync  Local Mysql DB  with Firebase
 4. At the bottom, click `Generate New Private Key` button.
 
 5. Move the downloaded json in this folder and rename to `firebase.json`.
-6. Chnage your Local Mysql credentials to `mysql.json`.
+
+6. Change  databaseURL: "https://xx.firebaseio.com" in index.js
+
+
+7. Chnage your Local Mysql credentials to `mysql.json`.
 
 ## Running the application
 
