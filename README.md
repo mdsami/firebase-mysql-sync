@@ -1,4 +1,5 @@
-#Firebase-mysql-sync
+##MySQL DB Sync with Firebase Realtime DB
+
 ### Show some :heart: and star the repo for the project
 [![GitHub stars](https://img.shields.io/github/stars/mdsami/firebase-mysql-sync.svg?style=social&label=Star)](https://github.com/mdsami/firebase-mysql-sync) [![GitHub forks](https://img.shields.io/github/stars/mdsami/firebase-mysql-sync.svg?style=social&label=Fork)](https://github.com/mdsami/firebase-mysql-sync/fork) [![GitHub watchers](https://img.shields.io/github/watchers/mdsami/firebase-mysql-sync.svg?style=social&label=Watch)](https://github.com/mdsami/firebase-mysql-sync) [![GitHub followers](https://img.shields.io/github/followers/mdsami.svg?style=social&label=Follow)](https://github.com/mdsami/firebase-mysql-sync)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/mdsami5.svg?style=social)](https://twitter.com/mdsami5)
